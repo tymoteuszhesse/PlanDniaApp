@@ -1,14 +1,14 @@
 [
   {
     "name": "notepad",
-    "latestVersion": "1.0"
+    "version": "1.0"
   },
   {
     "name": "chat",
-    "latestVersion": "1.0"
+    "version": "1.0"
   },
   {
     "name": "other",
-    "latestVersion": "1.0"
+    "version": "1.0"
   }
 ]
